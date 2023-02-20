@@ -30,7 +30,7 @@ fig = plt.figure(figsize =(30, 10))
 plt.boxplot(datos, vert = False)
 plt.xlabel("humedad")
 plt.title("Diagrama de cajas humedad en el área de lavado")
-#plt.show()
+plt.show()
 
 
 #Histograma
